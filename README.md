@@ -1,1 +1,1 @@
-This is a readme about alx-low_level_programming
+This is a readme file in the Hello World directory. I am learning C programming... its so cool!
