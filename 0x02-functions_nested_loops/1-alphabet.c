@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "main.h"
+#inckude "_putchar.c"
 
 /**
  * print_alphabet - Check description
